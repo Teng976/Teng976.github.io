@@ -1,5 +1,7 @@
-Mixture Distribution of Response Heaping in CEAP Plant\_Day
-================
+---
+layout: post
+title: Mixture Distribution of Response Heaping in CEAP Plant_Day
+---
 
 ## 0.1 Heaping in CEAP Plant\_Day
 
@@ -12,7 +14,7 @@ of corn in ceap\_region 7.
 
 <div class="figure">
 
-<img src="MixtureDistributionPlantDate_files/figure-gfm/hist-doy-1.png" alt="Histogram of Plant_Day"  />
+<img src="/assets/MixtureDistributionPlantDate_files/figure-gfm/hist-doy-1.png" alt="Histogram of Plant_Day"  />
 
 <p class="caption">
 
@@ -67,7 +69,7 @@ X <- c(x_heap, x_true)
 
 <div class="figure">
 
-<img src="MixtureDistributionPlantDate_files/figure-gfm/hist-sim-1.png" alt="Histogram of Simulated Plant_Day"  />
+<img src="/assets/MixtureDistributionPlantDate_files/figure-gfm/hist-sim-1.png" alt="Histogram of Simulated Plant_Day"  />
 
 <p class="caption">
 
@@ -230,7 +232,7 @@ X <- c(x_heap, x_true)
 
 <div class="figure">
 
-<img src="MixtureDistributionPlantDate_files/figure-gfm/hist-fit-1.png" alt="Histogram of Simulated and Real Plant_Day"  />
+<img src="/assets/MixtureDistributionPlantDate_files/figure-gfm/hist-fit-1.png" alt="Histogram of Simulated and Real Plant_Day"  />
 
 <p class="caption">
 
